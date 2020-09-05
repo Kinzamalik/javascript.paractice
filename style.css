@@ -1,0 +1,52 @@
+/* @import "color.css";
+@import "printstyle.css" print;
+ 
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font: 18px/24px arial;
+
+}
+#header{
+    /* background: cornflowerblue; */
+    /* color: black;
+}
+
+.abc{
+    background: rgb(180, 201, 241);
+
+}
+.xyz{
+    background: yellow;
+}
+#menu{
+    background: #fff; */
+/* 
+}
+#menu a{
+    color: rgb(0, 0, 0);
+}
+#menu a:hover{
+    background: crimson;
+}
+#wrapper{
+    border: 1px solid #000;
+    width: 1000px;
+    background: white;
+    margin: 0 auto;
+}
+
+
+
+#top-bar ul li{
+
+    display: inline-block;
+    margin: 5px;
+
+}
+#top-bar a{
+    color: blueviolet;
+    font-size: 20px;
+} */ 
